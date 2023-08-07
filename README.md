@@ -1,7 +1,7 @@
 # Welcome to mui-table-sample 👋
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: JordiSantamar1a](https://img.shields.io/twitter/follow/Jord1Santamaria.svg?style=social)](https://twitter.com/JordiSantamar1a)
+[![Twitter: JordiSantamar1a](https://img.shields.io/twitter/follow/JordiSantamar1a.svg?style=social)](https://twitter.com/JordiSantamar1a)
 
 A sample project to show how to create a customizable data table using Material UI and emotion
 
