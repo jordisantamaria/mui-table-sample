@@ -20,11 +20,13 @@ npm install
 npm run dev
 ```
 
-### Deploy to Vercel
+## Deploy to Vercel
 
-Deploy this project on Vercel in one click:
+You can quickly deploy this project to Vercel by clicking the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/jordisantamaria/mui-table-sample)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jordisantamaria/mui-table-sample)
+
+For more information and advanced deployment options, refer to the [Vercel Documentation](https://vercel.com/docs).
 
 ## Author
 
