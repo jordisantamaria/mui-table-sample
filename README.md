@@ -5,7 +5,7 @@
 
 A sample project to show how to create a customizable data table using Material UI and emotion
 
-### ✨ [Demo](https://react-chat-lake.vercel.app/)
+### ✨ [Demo](mui-table-sample.vercel.app)
 
 
 ## Install
