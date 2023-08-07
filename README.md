@@ -34,7 +34,7 @@ For more information and advanced deployment options, refer to the [Vercel Docum
 
 - Twitter: [@JordiSantamar1a](https://twitter.com/JordiSantamar1a)
 - Github: [@jordisantamaria](https://github.com/jordisantamaria)
-- LinkedIn: [@jordi-santamaria-portoles-8b14818b](https:/www.linkedin.com/in/jordi-santamaria-portoles-8b14818b/)
+* LinkedIn: [@jordi-santamaria-portoles-8b14818b](https://www.linkedin.com/in/jordi-santamaria-portoles-8b14818b/)
 
 ## Show your support
 
