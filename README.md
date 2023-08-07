@@ -5,7 +5,7 @@
 
 A sample project to show how to create a customizable data table using Material UI and emotion
 
-### ✨ [Demo](mui-table-sample.vercel.app)
+### ✨ [Demo](https://mui-table-sample.vercel.app/)
 
 
 ## Install
